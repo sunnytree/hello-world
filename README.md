@@ -1,3 +1,3 @@
 # hello-world
 learn to use github
-I like Java.that is easy than C++
+I like Java.that is easier than C++
